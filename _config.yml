@@ -6,11 +6,10 @@ remote_theme: just-the-docs/just-the-docs
 url: https://electroec.github.io/ec4daq
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+ Template Repository: https://github.com/just-the-docs/just-the-docs-template
 plugins:
-  - jekyll-remote-theme
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-rst
+ - jekyll-remote-theme
+ - jekyll-paginate
+ - jekyll-sitemap
 
 
