@@ -9,5 +9,8 @@ aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 plugins:
   - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-rst
 
 
