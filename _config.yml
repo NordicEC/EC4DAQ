@@ -8,7 +8,7 @@ remote_theme: just-the-docs/just-the-docs
 url: https://nordicec.github.io/ec4daq
 
 aux_links:
- Nordic Electrochemistry: https://nordicec.com/ec4daq
+ Nordic Electrochemistry: https://nordicec.com/software/ec4-daq/
  
 plugins:
  - jekyll-remote-theme
