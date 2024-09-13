@@ -3,6 +3,6 @@ title: Home
 layout: home
 ---
 
-EC4 DAQ Documentation.
+# EC4 DAQ Documentation.
 
 
