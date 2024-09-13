@@ -1,6 +1,9 @@
 # EC4 DAQ Documentation.
 
-Visit the (http://nordicec.github.com/ec4daq)[http://nordicec.github.com/ec4daq] to see the documentation.
+Visit the (http://nordicec.github.io/ec4daq)[nordicec.github.io/ec4daq] to see the documentation.
+
+else start here (docs/index)[docs/index]
+
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
