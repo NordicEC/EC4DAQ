@@ -2,7 +2,7 @@
 
 Visit the (nordicec.github.io/ec4daq)[http://nordicec.github.io/ec4daq] to see the documentation.
 
-else start here (docs/index)[docs/index]
+else start here (docs/index.md)[docs/index.md]
 
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
