@@ -1,6 +1,6 @@
 # EC4 DAQ Documentation.
 
-Visit the (nordicec.github.io/ec4daq)[http://nordicec.github.io/ec4daq] to see the documentation.
+Visit the  [https://nordicec.github.io/EC4DAQ] to see the documentation.
 
 else start here (docs/index.md)[docs/index.md]
 
