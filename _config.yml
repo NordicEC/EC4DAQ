@@ -1,14 +1,14 @@
 source: ./docs
 
 title: EC4 DAQ
-description: A starter template for a Jeykll site using the Just the Docs theme!
+description: EC4 DAQ
 # theme: just-the-docs
 remote_theme: just-the-docs/just-the-docs
 
-url: https://electroec.github.io/ec4daq
+url: https://nordicec.github.io/ec4daq
 
 aux_links:
- Template Repository: https://github.com/just-the-docs/just-the-docs-template
+ Template Repository: https://nordicec.com/ec4daq
 plugins:
  - jekyll-remote-theme
  - jekyll-paginate
